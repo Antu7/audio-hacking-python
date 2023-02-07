@@ -2,7 +2,7 @@
 
 This is a simple Python script continuously recording audio from the microphone and saving it as .wav files. The recorded audio is saved in 15 second increments, with each recording being saved as a separate .wav file with a unique filename based on the current time. You can recode & listen people's conversations without their permission.
 
-For more please check this Medium [Link](https://medium.com/@textmeantu/brute-force-attack-with-python-c1d70fcba607)
+For more please check this Medium [Link](https://medium.com/@textmeantu/create-an-audio-bug-using-python-a8cbf07994a8)
 
 ## Requirements
 - Python 3.x

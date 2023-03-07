@@ -1,4 +1,4 @@
-# Audio BUG
+# Audio HACKING
 
 This is a simple Python script continuously recording audio from the microphone and saving it as .wav files. The recorded audio is saved in 15 second increments, with each recording being saved as a separate .wav file with a unique filename based on the current time. You can recode & listen people's conversations without their permission.
 
